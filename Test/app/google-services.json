@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371172937230",
+    "firebase_url": "https://test-6242e.firebaseio.com",
+    "project_id": "test-6242e",
+    "storage_bucket": "test-6242e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371172937230:android:49f7cf57625f74da",
+        "android_client_info": {
+          "package_name": "com.dirox.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371172937230-aa2flf053d2g2f45v4ggecgoeq13206s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dirox.test",
+            "certificate_hash": "3ce12074c9b527731be7cb81d45926807cd78ea1"
+          }
+        },
+        {
+          "client_id": "371172937230-jbbckssbl2bhepm5q86dkm2qskjt0ivv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NQkSqdrhoi3_O_Y57sF-ZDjT7liV7uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371172937230-jbbckssbl2bhepm5q86dkm2qskjt0ivv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
